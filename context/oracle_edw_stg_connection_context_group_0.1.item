@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Development" xmi:id="_tYB8qOiREeqGmY5DbgngcQ">
+    <contextParameter comment="" name="connection_OracleEDWStg_Server" prompt="connection_OracleEDWStg_Server?" promptNeeded="false" type="id_String" value="tpap10-ldbdev.arbfile.org" xmi:id="_tYB8qeiREeqGmY5DbgngcQ"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_ServiceName" prompt="connection_OracleEDWStg_ServiceName?" promptNeeded="false" type="id_String" value="DBDI02" xmi:id="_tYB8quiREeqGmY5DbgngcQ"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_AdditionalParams" prompt="connection_OracleEDWStg_AdditionalParams?" promptNeeded="false" type="id_String" value="" xmi:id="_tYB8q-iREeqGmY5DbgngcQ"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_Schema" prompt="connection_OracleEDWStg_Schema?" promptNeeded="false" type="id_String" value="EDW_STG" xmi:id="_tYB8rOiREeqGmY5DbgngcQ"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_Password" prompt="connection_OracleEDWStg_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:72wbZGlR/WZudV3EfNFYbcpRAL81xrmEstShSDondqIRiaRMAf0bdQ==" xmi:id="_tYB8reiREeqGmY5DbgngcQ"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_Port" prompt="connection_OracleEDWStg_Port?" promptNeeded="false" type="id_String" value="1521" xmi:id="_tYB8ruiREeqGmY5DbgngcQ"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_Login" prompt="connection_OracleEDWStg_Login?" promptNeeded="false" type="id_String" value="TALEND_USER" xmi:id="_tYB8r-iREeqGmY5DbgngcQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Load" xmi:id="_n02FEPwSEeqwOcB0criZ2g">
+    <contextParameter comment="" name="connection_OracleEDWStg_Server" prompt="connection_OracleEDWStg_Server?" promptNeeded="false" type="id_String" value="cltp10-ldbload.arbfile.org" xmi:id="_n02FEfwSEeqwOcB0criZ2g"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_ServiceName" prompt="connection_OracleEDWStg_ServiceName?" promptNeeded="false" type="id_String" value="DBLOAD11" xmi:id="_n02FEvwSEeqwOcB0criZ2g"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_AdditionalParams" prompt="connection_OracleEDWStg_AdditionalParams?" promptNeeded="false" type="id_String" value="" xmi:id="_n02FE_wSEeqwOcB0criZ2g"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_Schema" prompt="connection_OracleEDWStg_Schema?" promptNeeded="false" type="id_String" value="EDW_STG" xmi:id="_n02FFPwSEeqwOcB0criZ2g"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_Password" prompt="connection_OracleEDWStg_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:1vUuiJIlDoe7ahNueKg/vOn9qDhzVLbYFDDq5uKzW4HNZlLkltNDIg==" xmi:id="_n02FFfwSEeqwOcB0criZ2g"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_Port" prompt="connection_OracleEDWStg_Port?" promptNeeded="false" type="id_String" value="1521" xmi:id="_n02FFvwSEeqwOcB0criZ2g"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_Login" prompt="connection_OracleEDWStg_Login?" promptNeeded="false" type="id_String" value="TALEND_USER" xmi:id="_n02FF_wSEeqwOcB0criZ2g"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Production" xmi:id="_tYB8sOiREeqGmY5DbgngcQ">
+    <contextParameter comment="" name="connection_OracleEDWStg_Server" prompt="connection_OracleEDWStg_Server?" promptNeeded="false" type="id_String" value="dbrpt.arbfile.org" xmi:id="_tYB8seiREeqGmY5DbgngcQ"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_ServiceName" prompt="connection_OracleEDWStg_ServiceName?" promptNeeded="false" type="id_String" value="DBRPT" xmi:id="_tYB8suiREeqGmY5DbgngcQ"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_AdditionalParams" prompt="connection_OracleEDWStg_AdditionalParams?" promptNeeded="false" type="id_String" value="" xmi:id="_tYB8s-iREeqGmY5DbgngcQ"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_Schema" prompt="connection_OracleEDWStg_Schema?" promptNeeded="false" type="id_String" value="EDW_STG" xmi:id="_tYB8tOiREeqGmY5DbgngcQ"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_Password" prompt="connection_OracleEDWStg_Password?" promptNeeded="false" type="id_Password" value="" xmi:id="_tYB8teiREeqGmY5DbgngcQ"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_Port" prompt="connection_OracleEDWStg_Port?" promptNeeded="false" type="id_String" value="1521" xmi:id="_tYB8tuiREeqGmY5DbgngcQ"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_Login" prompt="connection_OracleEDWStg_Login?" promptNeeded="false" type="id_String" value="TALEND_USER" xmi:id="_tYB8t-iREeqGmY5DbgngcQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="QA" xmi:id="_tYB8uOiREeqGmY5DbgngcQ">
+    <contextParameter comment="" name="connection_OracleEDWStg_Server" prompt="connection_OracleEDWStg_Server?" promptNeeded="false" type="id_String" value="cltp10-ldbqa.arbfile.org" xmi:id="_tYB8ueiREeqGmY5DbgngcQ"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_ServiceName" prompt="connection_OracleEDWStg_ServiceName?" promptNeeded="false" type="id_String" value="DBQA07" xmi:id="_tYB8uuiREeqGmY5DbgngcQ"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_AdditionalParams" prompt="connection_OracleEDWStg_AdditionalParams?" promptNeeded="false" type="id_String" value="" xmi:id="_tYB8u-iREeqGmY5DbgngcQ"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_Schema" prompt="connection_OracleEDWStg_Schema?" promptNeeded="false" type="id_String" value="EDW_STG" xmi:id="_tYB8vOiREeqGmY5DbgngcQ"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_Password" prompt="connection_OracleEDWStg_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:qmlzAdoLQ6hiF/4Z6UThcla6CU4VYKbr5ve0eRbkfjethsDncVWwkA==" xmi:id="_tYB8veiREeqGmY5DbgngcQ"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_Port" prompt="connection_OracleEDWStg_Port?" promptNeeded="false" type="id_String" value="1521" xmi:id="_tYB8vuiREeqGmY5DbgngcQ"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_Login" prompt="connection_OracleEDWStg_Login?" promptNeeded="false" type="id_String" value="TALEND_USER" xmi:id="_tYB8v-iREeqGmY5DbgngcQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="UAT" xmi:id="_tYB8wOiREeqGmY5DbgngcQ">
+    <contextParameter comment="" name="connection_OracleEDWStg_Server" prompt="connection_OracleEDWStg_Server?" promptNeeded="false" type="id_String" value="cltp10-ldbuat.arbfile.org" xmi:id="_tYB8weiREeqGmY5DbgngcQ"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_ServiceName" prompt="connection_OracleEDWStg_ServiceName?" promptNeeded="false" type="id_String" value="DBUAT1" xmi:id="_tYB8wuiREeqGmY5DbgngcQ"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_AdditionalParams" prompt="connection_OracleEDWStg_AdditionalParams?" promptNeeded="false" type="id_String" value="" xmi:id="_tYB8w-iREeqGmY5DbgngcQ"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_Schema" prompt="connection_OracleEDWStg_Schema?" promptNeeded="false" type="id_String" value="EDW_STG" xmi:id="_tYB8xOiREeqGmY5DbgngcQ"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_Password" prompt="connection_OracleEDWStg_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:HiwRBujVsG+Gi+wReISzq4JA6y1tKkvRW2nGB6yC1rV8KXXzC2+5gA==" xmi:id="_tYB8xeiREeqGmY5DbgngcQ"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_Port" prompt="connection_OracleEDWStg_Port?" promptNeeded="false" type="id_String" value="1521" xmi:id="_tYB8xuiREeqGmY5DbgngcQ"/>
+    <contextParameter comment="" name="connection_OracleEDWStg_Login" prompt="connection_OracleEDWStg_Login?" promptNeeded="false" type="id_String" value="TALEND_USER" xmi:id="_tYB8x-iREeqGmY5DbgngcQ"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_a17df18f-80a5-41e9-a971-b4b0ed371c2d"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>UlVUu6De9Qj2/Ji7X6n9by/6qk9Tbjym9dr1gHu6lDW7G1Wmiu1TCR1DyKle2+gd21PZ1ZstYjg/
+pJh+RaDEzA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_1e7bf9b8-e02b-45ce-9571-0687cd84a447"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>ULwvUy4QFyoZaG/HMuLtZMQZPB+jmM0XNST3/l4yL4qX5rj4lr+VYjkC+qhE/lHqFdjWQ5MX1OKz
+MBDVoWkO3A==</DigestValue></Reference></SignedInfo><SignatureValue>E8r+3uyreJ5sufyVKXHBAtXUf47LAotcoTel8XifulAtQ5LhyFkIy8x4zjBXa4tHJSb+jeHv48y/
+KevADatvgIfZOTfcVJmNAOpBDrnTw5hA0mUQJ1ruZ0ZhUJcxQnkt01l7Gxqkm595y3D0CULLeqgZ
+mg1RByHzbWaLOOCL5BRTayV/ezj+x899Ug0WXF+/tdtYbpHUKItGDmjI90AGWz/WvZTcF1HNKkkl
+ipD9uOo5j44rPI5/2K7m04G4vUirvdKft4TbcD2PNtlSd97fA2ArPwgSWpU90qsL3Ti44QoigVOK
+zqfxDTL7sVDsLCndp1Wsfm2WA8gp3fx0D0QBYg==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_1e7bf9b8-e02b-45ce-9571-0687cd84a447" Target="#_a17df18f-80a5-41e9-a971-b4b0ed371c2d"><Timestamp>2020-09-21 13:59:10</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

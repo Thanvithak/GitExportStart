@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Development" xmi:id="_wQ5dGMhZEeqrSa5zYoov6g">
+    <contextParameter comment="" name="connection_OracleCPS_Server" prompt="connection_OracleCPS_Server?" promptNeeded="false" type="id_String" value="tpap10-ldbdev.arbfile.org" xmi:id="_wQ5dGchZEeqrSa5zYoov6g"/>
+    <contextParameter comment="" name="connection_OracleCPS_ServiceName" prompt="connection_OracleCPS_ServiceName?" promptNeeded="false" type="id_String" value="DBDI02" xmi:id="_wQ5dGshZEeqrSa5zYoov6g"/>
+    <contextParameter comment="" name="connection_OracleCPS_AdditionalParams" prompt="connection_OracleCPS_AdditionalParams?" promptNeeded="false" type="id_String" value="" xmi:id="_wQ5dG8hZEeqrSa5zYoov6g"/>
+    <contextParameter comment="" name="connection_OracleCPS_Schema" prompt="connection_OracleCPS_Schema?" promptNeeded="false" type="id_String" value="CPS" xmi:id="_wQ5dHMhZEeqrSa5zYoov6g"/>
+    <contextParameter comment="" name="connection_OracleCPS_Password" prompt="connection_OracleCPS_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:uT2T8Ss0IATCSlqgzujEmbVtco5SBYnU2CJDAL9ATAKDFTZU6fY39Q==" xmi:id="_wQ5dHchZEeqrSa5zYoov6g"/>
+    <contextParameter comment="" name="connection_OracleCPS_Port" prompt="connection_OracleCPS_Port?" promptNeeded="false" type="id_String" value="1521" xmi:id="_wQ5dHshZEeqrSa5zYoov6g"/>
+    <contextParameter comment="" name="connection_OracleCPS_Login" prompt="connection_OracleCPS_Login?" promptNeeded="false" type="id_String" value="TALEND_USER" xmi:id="_wQ5dH8hZEeqrSa5zYoov6g"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Load" xmi:id="_OdFyoPwSEeqwOcB0criZ2g">
+    <contextParameter comment="" name="connection_OracleCPS_Server" prompt="connection_OracleCPS_Server?" promptNeeded="false" type="id_String" value="cltp10-ldbload.arbfile.org" xmi:id="_OdFyofwSEeqwOcB0criZ2g"/>
+    <contextParameter comment="" name="connection_OracleCPS_ServiceName" prompt="connection_OracleCPS_ServiceName?" promptNeeded="false" type="id_String" value="DBLOAD11" xmi:id="_OdFyovwSEeqwOcB0criZ2g"/>
+    <contextParameter comment="" name="connection_OracleCPS_AdditionalParams" prompt="connection_OracleCPS_AdditionalParams?" promptNeeded="false" type="id_String" value="" xmi:id="_OdFyo_wSEeqwOcB0criZ2g"/>
+    <contextParameter comment="" name="connection_OracleCPS_Schema" prompt="connection_OracleCPS_Schema?" promptNeeded="false" type="id_String" value="CPS" xmi:id="_OdFypPwSEeqwOcB0criZ2g"/>
+    <contextParameter comment="" name="connection_OracleCPS_Password" prompt="connection_OracleCPS_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:SKdumq3ema5qbl+MHXhC3PeUC5/0qCRJj5LN8Fdmcq+V1ptjfuPoyg==" xmi:id="_OdFypfwSEeqwOcB0criZ2g"/>
+    <contextParameter comment="" name="connection_OracleCPS_Port" prompt="connection_OracleCPS_Port?" promptNeeded="false" type="id_String" value="1521" xmi:id="_OdFypvwSEeqwOcB0criZ2g"/>
+    <contextParameter comment="" name="connection_OracleCPS_Login" prompt="connection_OracleCPS_Login?" promptNeeded="false" type="id_String" value="TALEND_USER" xmi:id="_OdFyp_wSEeqwOcB0criZ2g"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Production" xmi:id="_wQ5dIMhZEeqrSa5zYoov6g">
+    <contextParameter comment="" name="connection_OracleCPS_Server" prompt="connection_OracleCPS_Server?" promptNeeded="false" type="id_String" value="dbrpt.arbfile.org" xmi:id="_wQ5dIchZEeqrSa5zYoov6g"/>
+    <contextParameter comment="" name="connection_OracleCPS_ServiceName" prompt="connection_OracleCPS_ServiceName?" promptNeeded="false" type="id_String" value="DBRPT" xmi:id="_wQ5dIshZEeqrSa5zYoov6g"/>
+    <contextParameter comment="" name="connection_OracleCPS_AdditionalParams" prompt="connection_OracleCPS_AdditionalParams?" promptNeeded="false" type="id_String" value="" xmi:id="_wQ5dI8hZEeqrSa5zYoov6g"/>
+    <contextParameter comment="" name="connection_OracleCPS_Schema" prompt="connection_OracleCPS_Schema?" promptNeeded="false" type="id_String" value="CPS" xmi:id="_wQ5dJMhZEeqrSa5zYoov6g"/>
+    <contextParameter comment="" name="connection_OracleCPS_Password" prompt="connection_OracleCPS_Password?" promptNeeded="false" type="id_Password" value="" xmi:id="_wQ5dJchZEeqrSa5zYoov6g"/>
+    <contextParameter comment="" name="connection_OracleCPS_Port" prompt="connection_OracleCPS_Port?" promptNeeded="false" type="id_String" value="1521" xmi:id="_wQ5dJshZEeqrSa5zYoov6g"/>
+    <contextParameter comment="" name="connection_OracleCPS_Login" prompt="connection_OracleCPS_Login?" promptNeeded="false" type="id_String" value="TALEND_USER" xmi:id="_wQ5dJ8hZEeqrSa5zYoov6g"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="QA" xmi:id="_wQ5dKMhZEeqrSa5zYoov6g">
+    <contextParameter comment="" name="connection_OracleCPS_Server" prompt="connection_OracleCPS_Server?" promptNeeded="false" type="id_String" value="cltp10-ldbqa.arbfile.org" xmi:id="_wQ5dKchZEeqrSa5zYoov6g"/>
+    <contextParameter comment="" name="connection_OracleCPS_ServiceName" prompt="connection_OracleCPS_ServiceName?" promptNeeded="false" type="id_String" value="DBQA07" xmi:id="_wQ5dKshZEeqrSa5zYoov6g"/>
+    <contextParameter comment="" name="connection_OracleCPS_AdditionalParams" prompt="connection_OracleCPS_AdditionalParams?" promptNeeded="false" type="id_String" value="" xmi:id="_wQ5dK8hZEeqrSa5zYoov6g"/>
+    <contextParameter comment="" name="connection_OracleCPS_Schema" prompt="connection_OracleCPS_Schema?" promptNeeded="false" type="id_String" value="CPS" xmi:id="_wQ5dLMhZEeqrSa5zYoov6g"/>
+    <contextParameter comment="" name="connection_OracleCPS_Password" prompt="connection_OracleCPS_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:mwscx4iF9RvY+f9uvRNxZTY7x1rf87WTpcS60S5lIjm3HeCubAm1cA==" xmi:id="_wQ5dLchZEeqrSa5zYoov6g"/>
+    <contextParameter comment="" name="connection_OracleCPS_Port" prompt="connection_OracleCPS_Port?" promptNeeded="false" type="id_String" value="1521" xmi:id="_wQ5dLshZEeqrSa5zYoov6g"/>
+    <contextParameter comment="" name="connection_OracleCPS_Login" prompt="connection_OracleCPS_Login?" promptNeeded="false" type="id_String" value="TALEND_USER" xmi:id="_wQ5dL8hZEeqrSa5zYoov6g"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="UAT" xmi:id="_wQ5dMMhZEeqrSa5zYoov6g">
+    <contextParameter comment="" name="connection_OracleCPS_Server" prompt="connection_OracleCPS_Server?" promptNeeded="false" type="id_String" value="cltp10-ldbqa.arbfile.org" xmi:id="_wQ5dMchZEeqrSa5zYoov6g"/>
+    <contextParameter comment="" name="connection_OracleCPS_ServiceName" prompt="connection_OracleCPS_ServiceName?" promptNeeded="false" type="id_String" value="DBUAT01" xmi:id="_wQ5dMshZEeqrSa5zYoov6g"/>
+    <contextParameter comment="" name="connection_OracleCPS_AdditionalParams" prompt="connection_OracleCPS_AdditionalParams?" promptNeeded="false" type="id_String" value="" xmi:id="_wQ5dM8hZEeqrSa5zYoov6g"/>
+    <contextParameter comment="" name="connection_OracleCPS_Schema" prompt="connection_OracleCPS_Schema?" promptNeeded="false" type="id_String" value="CPS" xmi:id="_wQ5dNMhZEeqrSa5zYoov6g"/>
+    <contextParameter comment="" name="connection_OracleCPS_Password" prompt="connection_OracleCPS_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:1dvkGZt3rgQMJZmvw/kA0iYMvsyEhYA97x+coy3PaVTO/MaEJUR9pg==" xmi:id="_wQ5dNchZEeqrSa5zYoov6g"/>
+    <contextParameter comment="" name="connection_OracleCPS_Port" prompt="connection_OracleCPS_Port?" promptNeeded="false" type="id_String" value="1521" xmi:id="_wQ5dNshZEeqrSa5zYoov6g"/>
+    <contextParameter comment="" name="connection_OracleCPS_Login" prompt="connection_OracleCPS_Login?" promptNeeded="false" type="id_String" value="TALEND_USER" xmi:id="_wQ5dN8hZEeqrSa5zYoov6g"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_4c8d34ea-cb5a-4d67-afe9-ec9986848242"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>J5+BQCsmgr09ULi54jf01ulPD36Xr2OL1+qu5we7MLpLuzXObVR79rU7VdCtbizZQTboD0A783BC
++RLpqtX57Q==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_42c38dfc-d73c-4667-8dc3-12380e7bf724"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>CtVqRtop6Lw/ANOfrCjZ2KAByYzjC5R4R3dbNVR2dI5d5DnFDyLgtaVqJsbqWZIcMH7925qSEPI5
+BUrIm8I+vQ==</DigestValue></Reference></SignedInfo><SignatureValue>HrEQD7MIS0/IUY8ibwMwGotwSpNOoadBqdRHWpiBUgOlNUzbbtYM7ys/1BnpLb2XB0ki67781eq6
+48nQWIX4g0DpgaNiHe9S4j6e1M8OpNhX2s1HBEl6M8yLqxkEEmfMLWrnhA65hRfyvoRke+vtwBvF
+s25GQK5ihaO126SfatuB7DSTqja6gnxFrKAekjm1BsReTljURBDMWTaV+tcGTOOBaDEDnwGn8zka
+Ly3/8RQ3vlTs1dHxwLevbqnJWakUXZiEV0U1zmvHh96lqOGQBaaOiSvNjhJHu350UFE+/H6tsC0J
+VvinS/dUevU13zBf6j/ehQRGbvnp+TK9cPEEDg==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_42c38dfc-d73c-4667-8dc3-12380e7bf724" Target="#_4c8d34ea-cb5a-4d67-afe9-ec9986848242"><Timestamp>2021-01-29 17:27:16</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

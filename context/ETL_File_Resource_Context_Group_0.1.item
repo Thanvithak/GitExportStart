@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Development" xmi:id="_2ecAcMUDEeqn05jyT66QIw">
+    <contextParameter comment="" name="parameter_base_etl_file_path" prompt="parameter_base_etl_file_path?" promptNeeded="false" type="id_String" value="C:/Talend/ETL/files/Dev" xmi:id="_2ecAccUDEeqn05jyT66QIw"/>
+    <contextParameter comment="" name="parameter_flow_file_name" prompt="parameter_flow_file_name?" promptNeeded="false" type="id_String" value="flow_rows.csv" xmi:id="_ACBqA8UZEeqn05jyT66QIw"/>
+    <contextParameter comment="" name="parameter_pivot_file_name" prompt="parameter_pivot_file_name?" promptNeeded="false" type="id_String" value="pivot.csv" xmi:id="_ACBqBMUZEeqn05jyT66QIw"/>
+    <contextParameter comment="" name="parameter_records_file_name" prompt="parameter_records_file_name?" promptNeeded="false" type="id_String" value="records.csv" xmi:id="_ACBqBcUZEeqn05jyT66QIw"/>
+    <contextParameter comment="" name="parameter_flow_pivot_file_name" prompt="parameter_flow_pivot_file_name?" promptNeeded="false" type="id_String" value="pivot_flow_rows.csv" xmi:id="_plrRYcUbEeqn05jyT66QIw"/>
+    <contextParameter comment="" name="parameter_records_file_name_hist" prompt="parameter_records_file_name_hist?" promptNeeded="false" type="id_String" value="records_hist.csv" xmi:id="_PChFUdsgEeqzpu7cWkmrcQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Load" xmi:id="_suiNUPwREeqwOcB0criZ2g">
+    <contextParameter comment="" name="parameter_base_etl_file_path" prompt="parameter_base_etl_file_path?" promptNeeded="false" type="id_String" value="c:/Talend/ETL/files/Load" xmi:id="_suiNUfwREeqwOcB0criZ2g"/>
+    <contextParameter comment="" name="parameter_flow_file_name" prompt="parameter_flow_file_name?" promptNeeded="false" type="id_String" value="flow_rows.csv" xmi:id="_suiNUvwREeqwOcB0criZ2g"/>
+    <contextParameter comment="" name="parameter_pivot_file_name" prompt="parameter_pivot_file_name?" promptNeeded="false" type="id_String" value="pivot.csv" xmi:id="_suiNU_wREeqwOcB0criZ2g"/>
+    <contextParameter comment="" name="parameter_records_file_name" prompt="parameter_records_file_name?" promptNeeded="false" type="id_String" value="records.csv" xmi:id="_suiNVPwREeqwOcB0criZ2g"/>
+    <contextParameter comment="" name="parameter_flow_pivot_file_name" prompt="parameter_flow_pivot_file_name?" promptNeeded="false" type="id_String" value="pivot_flow_rows.csv" xmi:id="_suiNVfwREeqwOcB0criZ2g"/>
+    <contextParameter comment="" name="parameter_records_file_name_hist" prompt="parameter_records_file_name_hist?" promptNeeded="false" type="id_String" value="records_hist.csv" xmi:id="_suiNVvwREeqwOcB0criZ2g"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Production" xmi:id="_suiNV_wREeqwOcB0criZ2g">
+    <contextParameter comment="" name="parameter_base_etl_file_path" prompt="parameter_base_etl_file_path?" promptNeeded="false" type="id_String" value="E:/Talend/ETL/files/Prod" xmi:id="_suiNWPwREeqwOcB0criZ2g"/>
+    <contextParameter comment="" name="parameter_flow_file_name" prompt="parameter_flow_file_name?" promptNeeded="false" type="id_String" value="flow_rows.csv" xmi:id="_suiNWfwREeqwOcB0criZ2g"/>
+    <contextParameter comment="" name="parameter_pivot_file_name" prompt="parameter_pivot_file_name?" promptNeeded="false" type="id_String" value="pivot.csv" xmi:id="_suiNWvwREeqwOcB0criZ2g"/>
+    <contextParameter comment="" name="parameter_records_file_name" prompt="parameter_records_file_name?" promptNeeded="false" type="id_String" value="records.csv" xmi:id="_suiNW_wREeqwOcB0criZ2g"/>
+    <contextParameter comment="" name="parameter_flow_pivot_file_name" prompt="parameter_flow_pivot_file_name?" promptNeeded="false" type="id_String" value="pivot_flow_rows.csv" xmi:id="_suiNXPwREeqwOcB0criZ2g"/>
+    <contextParameter comment="" name="parameter_records_file_name_hist" prompt="parameter_records_file_name_hist?" promptNeeded="false" type="id_String" value="records_hist.csv" xmi:id="_suiNXfwREeqwOcB0criZ2g"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="QA" xmi:id="_2ecAcsUDEeqn05jyT66QIw">
+    <contextParameter comment="" name="parameter_base_etl_file_path" prompt="parameter_base_etl_file_path?" promptNeeded="false" type="id_String" value="c:/Talend/ETL/files/QA" xmi:id="_2ecAc8UDEeqn05jyT66QIw"/>
+    <contextParameter comment="" name="parameter_flow_file_name" prompt="parameter_flow_file_name?" promptNeeded="false" type="id_String" value="flow_rows.csv" xmi:id="_ACBqBsUZEeqn05jyT66QIw"/>
+    <contextParameter comment="" name="parameter_pivot_file_name" prompt="parameter_pivot_file_name?" promptNeeded="false" type="id_String" value="pivot.csv" xmi:id="_ACBqB8UZEeqn05jyT66QIw"/>
+    <contextParameter comment="" name="parameter_records_file_name" prompt="parameter_records_file_name?" promptNeeded="false" type="id_String" value="records.csv" xmi:id="_ACBqCMUZEeqn05jyT66QIw"/>
+    <contextParameter comment="" name="parameter_flow_pivot_file_name" prompt="parameter_flow_pivot_file_name?" promptNeeded="false" type="id_String" value="pivot_flow_rows.csv" xmi:id="_plrRYsUbEeqn05jyT66QIw"/>
+    <contextParameter comment="" name="parameter_records_file_name_hist" prompt="parameter_records_file_name_hist?" promptNeeded="false" type="id_String" value="records_hist.csv" xmi:id="_PChFUtsgEeqzpu7cWkmrcQ"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="UAT" xmi:id="_2ecAdMUDEeqn05jyT66QIw">
+    <contextParameter comment="" name="parameter_base_etl_file_path" prompt="parameter_base_etl_file_path?" promptNeeded="false" type="id_String" value="c:/Talend/ETL/files/UAT" xmi:id="_2ecAdcUDEeqn05jyT66QIw"/>
+    <contextParameter comment="" name="parameter_flow_file_name" prompt="parameter_flow_file_name?" promptNeeded="false" type="id_String" value="flow_rows.csv" xmi:id="_ACBqCcUZEeqn05jyT66QIw"/>
+    <contextParameter comment="" name="parameter_pivot_file_name" prompt="parameter_pivot_file_name?" promptNeeded="false" type="id_String" value="pivot.csv" xmi:id="_ACBqCsUZEeqn05jyT66QIw"/>
+    <contextParameter comment="" name="parameter_records_file_name" prompt="parameter_records_file_name?" promptNeeded="false" type="id_String" value="records.csv" xmi:id="_ACBqC8UZEeqn05jyT66QIw"/>
+    <contextParameter comment="" name="parameter_flow_pivot_file_name" prompt="parameter_flow_pivot_file_name?" promptNeeded="false" type="id_String" value="pivot_flow_rows.csv" xmi:id="_plrRY8UbEeqn05jyT66QIw"/>
+    <contextParameter comment="" name="parameter_records_file_name_hist" prompt="parameter_records_file_name_hist?" promptNeeded="false" type="id_String" value="records_hist.csv" xmi:id="_PChFU9sgEeqzpu7cWkmrcQ"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_91935471-5108-490d-b340-3b4f14981c51"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>zbIuYx1+kVvh5YprvmIMgfvF+KIRq6KRt8WTNasYTz5nwl2imFpD7yip+XxSN10jCvdkJFAp5Bb3
+Rd8sc57k/w==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_bced9bd1-f83b-43bd-9f4a-474768ae5654"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>WpEh2w9icgVI6bH+ZqV1iONk9UQZceaRZBSuqEDGZyjzp+YEzcX8Q02GYyPt4mfoDdqIMSiosDzQ
+pvwxwSvbBA==</DigestValue></Reference></SignedInfo><SignatureValue>Utwv+noGbOd3OsD0wZgJ01LJmRMdMjvMUOqNkz8vsyw/A8nDvxH5d9Lfm2oP60P4OoQATBlD38EY
+B1aywRbMp/nfhvG5m5PDzzxORh49lweg+RVCecWtq1WeFiv9fcEmYbesofTjCZFbCBhcvtD6O8wd
+QcUlSeAPS+rTTts5RKUYBWP6Azay64qR5/I3pdOSRomfy6eR7dpJWRTo+9TOUQjbnn+4vFMnYurb
+S8ugFtR5ymKbnfuEtiCxTs5yl/WqRgSyqKnp8S9Oi9YVzdCzMBDXFpXOvyxZpezIM+mRJLawN44q
+IMvTIq/tw01YE+niiqrwkms1oMLae5YFQ6hYEg==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_bced9bd1-f83b-43bd-9f4a-474768ae5654" Target="#_91935471-5108-490d-b340-3b4f14981c51"><Timestamp>2021-01-29 13:50:41</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

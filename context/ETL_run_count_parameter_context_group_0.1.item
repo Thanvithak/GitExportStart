@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Development" xmi:id="_vfk3UE9wEeuuxPMAGHgmhw">
+    <contextParameter comment="" name="parameter_edw_inserted" prompt="parameter_edw_inserted?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_vfk3Uk9wEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_edw_hist_inserted" prompt="parameter_edw_hist_inserted?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_vfk3U09wEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_etl_job_run_id" prompt="parameter_etl_job_run_id?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_vfk3VE9wEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_etl_job_id" prompt="parameter_etl_job_id?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_vfk3VU9wEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_edw_updated" prompt="parameter_edw_updated?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_ar7h4E9zEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_edw_hist_updated" prompt="parameter_edw_hist_updated?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_ar8I8E9zEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_etl_last_run_date" prompt="parameter_etl_last_run_date?" promptNeeded="false" type="id_Date" value="2018-01-01 00:00:00" xmi:id="_ar8I8U9zEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_edw_removed" prompt="parameter_edw_removed?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_ar8I8k9zEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_edw_hist_insert_updated" prompt="parameter_edw_hist_insert_updated?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_6dRVIE-KEeulDKneK4UnZg"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Load" xmi:id="_cWe_ME9zEeuuxPMAGHgmhw">
+    <contextParameter comment="" name="parameter_edw_inserted" prompt="parameter_edw_inserted?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_cWe_Mk9zEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_edw_hist_inserted" prompt="parameter_edw_hist_inserted?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_cWe_M09zEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_etl_job_run_id" prompt="parameter_etl_job_run_id?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_cWe_NE9zEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_etl_job_id" prompt="parameter_etl_job_id?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_cWe_NU9zEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_edw_updated" prompt="parameter_edw_updated?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_cWe_Nk9zEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_edw_hist_updated" prompt="parameter_edw_hist_updated?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_cWe_N09zEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_etl_last_run_date" prompt="parameter_etl_last_run_date?" promptNeeded="false" type="id_Date" value="2018-01-01 00:00:00" xmi:id="_cWe_OE9zEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_edw_removed" prompt="parameter_edw_removed?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_cWe_OU9zEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_edw_hist_insert_updated" prompt="parameter_edw_hist_insert_updated?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_6dRVIU-KEeulDKneK4UnZg"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Production" xmi:id="_vfk3Vk9wEeuuxPMAGHgmhw">
+    <contextParameter comment="" name="parameter_edw_inserted" prompt="parameter_edw_inserted?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_vfk3WE9wEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_edw_hist_inserted" prompt="parameter_edw_hist_inserted?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_vfk3WU9wEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_etl_job_run_id" prompt="parameter_etl_job_run_id?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_vfk3Wk9wEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_etl_job_id" prompt="parameter_etl_job_id?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_vfk3W09wEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_edw_updated" prompt="parameter_edw_updated?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_ar8I809zEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_edw_hist_updated" prompt="parameter_edw_hist_updated?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_ar8I9E9zEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_etl_last_run_date" prompt="parameter_etl_last_run_date?" promptNeeded="false" type="id_Date" value="2018-01-01 00:00:00" xmi:id="_ar8I9U9zEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_edw_removed" prompt="parameter_edw_removed?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_ar8I9k9zEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_edw_hist_insert_updated" prompt="parameter_edw_hist_insert_updated?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_6dR8ME-KEeulDKneK4UnZg"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="QA" xmi:id="_vfk3XE9wEeuuxPMAGHgmhw">
+    <contextParameter comment="" name="parameter_edw_inserted" prompt="parameter_edw_inserted?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_vfk3Xk9wEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_edw_hist_inserted" prompt="parameter_edw_hist_inserted?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_vfk3X09wEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_etl_job_run_id" prompt="parameter_etl_job_run_id?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_vfk3YE9wEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_etl_job_id" prompt="parameter_etl_job_id?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_vfk3YU9wEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_edw_updated" prompt="parameter_edw_updated?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_ar8I909zEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_edw_hist_updated" prompt="parameter_edw_hist_updated?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_ar8I-E9zEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_etl_last_run_date" prompt="parameter_etl_last_run_date?" promptNeeded="false" type="id_Date" value="2018-01-01 00:00:00" xmi:id="_ar8I-U9zEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_edw_removed" prompt="parameter_edw_removed?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_ar8I-k9zEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_edw_hist_insert_updated" prompt="parameter_edw_hist_insert_updated?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_6dR8MU-KEeulDKneK4UnZg"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="UAT" xmi:id="_vfk3Yk9wEeuuxPMAGHgmhw">
+    <contextParameter comment="" name="parameter_edw_inserted" prompt="parameter_edw_inserted?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_vfk3ZE9wEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_edw_hist_inserted" prompt="parameter_edw_hist_inserted?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_vfk3ZU9wEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_etl_job_run_id" prompt="parameter_etl_job_run_id?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_vfk3Zk9wEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_etl_job_id" prompt="parameter_etl_job_id?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_vfk3Z09wEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_edw_updated" prompt="parameter_edw_updated?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_ar8I-09zEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_edw_hist_updated" prompt="parameter_edw_hist_updated?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_ar8I_E9zEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_etl_last_run_date" prompt="parameter_etl_last_run_date?" promptNeeded="false" type="id_Date" value="2018-01-01 00:00:00" xmi:id="_ar8I_U9zEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_edw_removed" prompt="parameter_edw_removed?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_ar8I_k9zEeuuxPMAGHgmhw"/>
+    <contextParameter comment="" name="parameter_edw_hist_insert_updated" prompt="parameter_edw_hist_insert_updated?" promptNeeded="false" type="id_BigDecimal" value="0" xmi:id="_6dR8Mk-KEeulDKneK4UnZg"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_4e5fca4e-69fd-4d05-b15c-a4333eacbb9b"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>dEHIQLzFs5ZnO3vPH5yU2crTpr8Ntlxk6DUTTBjnt9tg+LG4hBJ2bqK711Hfl3EhNtw0yh77nXJH
+K6kecSXpAA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_3e047718-0c0f-401f-9e97-11451afdfff4"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>bQlJ43czs2MJTK8gsL+BiZ2e5H0dRxSnRZAkCFNUmoX6MdwZWul7AfAxkMJ5owPHuigZOQ7IbZco
+YZLadGGgVQ==</DigestValue></Reference></SignedInfo><SignatureValue>VvrL15mb/8+eph4ZoflXugaFoqnnF2gdjtuYu7sZXnvzUer5uIwaIeHJncetetU5IsbT3lIE0nDo
+EAajFvLjyl2ev1D6LONc5Ka1tSjcuxwFxvN6xaSVFKyiqTHogrdUFJwYNQe8drGdfnVHESpXr9rI
+Rq2nhOSkQjrgZ+9Py+nh9CA0pNgqS0AcS/TD6PFneFd6/yFMMIRmrHMDu6xmSyGqXjczkpS0I8oC
+n88ZxU8JT9LznJoh7GpvvUTvg+H/0BpNujbdCD9gJDRiqeXFokZ4hbezcJu8LJMH7iDOWBvIvsNX
+OwdNmUeV+0EoJd/Luwf5prIX31eREa3yoD/bvA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_3e047718-0c0f-401f-9e97-11451afdfff4" Target="#_4e5fca4e-69fd-4d05-b15c-a4333eacbb9b"><Timestamp>2021-01-05 19:44:17</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
