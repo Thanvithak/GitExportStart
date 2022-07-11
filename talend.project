@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_2N-EUcIKEeqRu4gqjENfLg" label="prj_EDW_ETL" language="java" technicalLabel="PRJ_EDW_ETL" author="_2N-EUsIKEeqRu4gqjENfLg" productVersion="Talend Cloud Data Management Platform-7.3.1.20200219_1130" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://afgit.arbfile.org/dbas/talend-edw-etl.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_30wb8MIKEeqRu4gqjENfLg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_2N-EUsIKEeqRu4gqjENfLg" login="jboutell@arbfile.org" firstName="Jonathan" lastName="Boutelle" type="DQ"/>
+  <TalendProperties:User xmi:id="_wSSH8MLZEeqBkITO0qDi0A" login="cwatters@arbfile.org" firstName="Chad" lastName="Watters" type="DQ"/>
+  <TalendProperties:User xmi:id="_rSlAUFG-EeuLOs8B_WFD1g" login="yivanov@arbfile.org" firstName="Yuriy" lastName="Ivanov" type="DQ"/>
+  <TalendProperties:User xmi:id="_YQTRoF9FEeu1av_hLjm73A" login="kmukthap@arbfile.org" firstName="Kiran" lastName="Mukthapuram" type="DQ"/>
+</xmi:XMI>
